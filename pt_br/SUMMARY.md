@@ -20,7 +20,7 @@
 1. [Comente somente o que o código não diz](thing_17/README.md)
 1. [Aprendizado contínuo](thing_18/README.md)
 1. [Conveniência não é uma qualidade](thing_19/README.md)
-1. [Deploy Early and Often](thing_20/README.md)
+1. [Implemente cedo e frequentemente](thing_20/README.md)
 1. [Distinguish Business Exceptions from Technical](thing_21/README.md)
 1. [Do Lots of Deliberate Practice](thing_22/README.md)
 1. [Domain-Specific Languages](thing_23/README.md)
