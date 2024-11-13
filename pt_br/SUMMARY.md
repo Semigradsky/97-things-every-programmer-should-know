@@ -21,7 +21,7 @@
 1. [Aprendizado contínuo](thing_18/README.md)
 1. [Conveniência não é uma qualidade](thing_19/README.md)
 1. [Implemente cedo e frequentemente](thing_20/README.md)
-1. [Distinguish Business Exceptions from Technical](thing_21/README.md)
+1. [Faça distinção entre exceções de negócio e exceções técnicas](thing_21/README.md)
 1. [Do Lots of Deliberate Practice](thing_22/README.md)
 1. [Domain-Specific Languages](thing_23/README.md)
 1. [Don't Be Afraid to Break Things](thing_24/README.md)
