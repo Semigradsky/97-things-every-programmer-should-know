@@ -23,7 +23,7 @@
 1. [Implemente cedo e frequentemente](thing_20/README.md)
 1. [Faça distinção entre exceções de negócio e exceções técnicas](thing_21/README.md)
 1. [Pratique deliberadamente](thing_22/README.md)
-1. [Domain-Specific Languages](thing_23/README.md)
+1. [Linguagens de programação para domínios especializados](thing_23/README.md)
 1. [Don't Be Afraid to Break Things](thing_24/README.md)
 1. [Don't Be Cute with Your Test Data](thing_25/README.md)
 1. [Don't Ignore that Error!](thing_26/README.md)
