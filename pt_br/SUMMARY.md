@@ -25,7 +25,7 @@
 1. [Pratique deliberadamente](thing_22/README.md)
 1. [Linguagens de programação para domínios especializados](thing_23/README.md)
 1. [Não tenha medo de quebrar coisas](thing_24/README.md)
-1. [Don't Be Cute with Your Test Data](thing_25/README.md)
+1. [Não tenha vergonha dos seus dados de teste](thing_25/README.md)
 1. [Don't Ignore that Error!](thing_26/README.md)
 1. [Don't Just Learn the Language, Understand its Culture](thing_27/README.md)
 1. [Don't Nail Your Program into the Upright Position](thing_28/README.md)
