@@ -27,7 +27,7 @@
 1. [Não tenha medo de quebrar coisas](thing_24/README.md)
 1. [Não tenha vergonha dos seus dados de teste](thing_25/README.md)
 1. [Não ignore aquele erro!](thing_26/README.md)
-1. [Don't Just Learn the Language, Understand its Culture](thing_27/README.md)
+1. [Não aprenda apenas a linguagem, conheça a cultura dela](thing_27/README.md)
 1. [Don't Nail Your Program into the Upright Position](thing_28/README.md)
 1. [Don't Rely on "Magic Happens Here"](thing_29/README.md)
 1. [Don't Repeat Yourself](thing_30/README.md)
