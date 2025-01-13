@@ -29,7 +29,7 @@
 1. [Não ignore aquele erro!](thing_26/README.md)
 1. [Não aprenda apenas a linguagem, conheça a cultura dela](thing_27/README.md)
 1. [Não bata no seu programa na posição errada](thing_28/README.md)
-1. [Don't Rely on "Magic Happens Here"](thing_29/README.md)
+1. [Não dependa da "Mágica que acontece aqui"](thing_29/README.md)
 1. [Don't Repeat Yourself](thing_30/README.md)
 1. [Don't Touch that Code!](thing_31/README.md)
 1. [Encapsulate Behavior, not Just State](thing_32/README.md)
