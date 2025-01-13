@@ -1,0 +1,17 @@
+# Código é Design
+
+Imagine acordar amanhã e descobrir que a indústria da construção civil fez um avanço do século. Milhões de robôs baratos, incrivelmente rápidos, podem fabricar materiais a partir de nada, tem um custo de energia próximo de zero e podem se auto-reparar. E, ainda melhor: Dado um projeto arquitetônico não ambíguo, os robôs podem construir sem intervenção humana a um custo desprezível.
+
+Você pode imaginar o impacto na indústria da construção civil, mas qual é o impacto nas indústrias na porção inicial da cadeia de valor? Como o comportamento de arquitetos e designers mudará se os custos de construção forem desprezíveis? Hoje, modelos físicos e computacionais são construídos e rigorosamente testados antes de serem aplicados na construção civil. Nós nos incomodaríamos se os custos de construção fossem essentialmente gratuitos? Se um edífio colapsa, não há problema - encontre o que houve de errado e teremos nossos robôs mágicos construindo outro. Mas existem implicações adicionais. Com modelos obsoletos, designs inacabados evoluem pela construção repetitiva e pela melhoria em busca do objetivo final. Um observador ocasional pode ter dificuldade em distinguir um design inacabado de um produto final.
+
+Nossa habilidade de prever prazos irá desaparecer. Custos de construção são mais facilmente calculados que custos de design - nós sabemos aproximar o custo de instalar uma viga e quantas vigas nós precisaremos. À medida que as tarefas previsíveis são reduzidas, os tempos de design, menos previsíveis, irão dominar. Os resultados são produzidos mais rapidamente, mas prazos confiáveis não existirão mais.
+
+É claro, as pressões de uma economia competitiva ainda existirão. Com os custos de construção eliminados, uma empresa que pode completar um design rapidamente ganha uma vantagem competitiva no mercado. Obter um design rapidamente torna-se central para as empresas de engenharia. Inevitavelmente, alguém que não seja profundamente familiar com o design verá uma versão invalidada, perceberá a vantagem de entregar mais rápido e dirá "Isso está suficientemente bom".
+
+Alguns projetos de risco serão mais diligentes, mas em muitos casos os consumidores aprenderão a conviver com designs incompletos. Empresas poderão sempre enviar nosssos mágicos robôs para corrigir os edifícios e veículos defeituosos que eles comercializam. Tudo isso aponta para uma conclusão contra-intuitiva: nossa única premissa de uma redução dramática nos custos de construção com o resultado de uma *qualidade pior*.
+
+Não deveria nos surpreender que a história acima aconteceu no desenvolvimento de software. Se aceitarmos que código é design - um processo criativo e não um processo mecânico - a *crise do software* está explicada. Nós temos agora uma *crise de design*: A demanda por designs de qualidade, validados, excede nossa capacidade de criá-los. A pressão para usar designs incompletos é forte.
+
+Felizmente, esse modelo também oferece dicas sobre como podemos aperfeiçoar. Simulações físicas são mapeadas em teste automatizado; design de software não está completo até que seja validado com uma bateria brutal de testes. Fazer tais testes mais efetivos permite que exploremos o amplo espaço de estados dos sistemas grandes. Melhores linguages e práticas de design nos dão alguma esperança. Finalmente, existe um fato inevitável: Grandes designs são produzidos por grandes designers que se dedicam à maestria de sua arte. Código não é diferente disso.
+
+Por [Ryan Brush](http://programmer.97things.oreilly.com/wiki/index.php/Ryan_Brush)

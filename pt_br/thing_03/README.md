@@ -1,0 +1,17 @@
+# Pergunte-se "O que o usuário faria?" (Você não é o usuário)
+
+Temos a tendência de supor que as outras pessoas pensam como nós. Mas isso não é verdade. Os psicólogos chamam isso do viés do falso consenso. Quando pessoas pensam ou agem diferente de nós, nós provavelmente as identificamos como defeituosas em alguma medida, pelo menos inconscientemente.
+
+Esse viés explica porque programadores tem dificuldade de se colocar na posição dos usuários. Usuários não pensam como programadores. Primeiro, eles tendem a gastar menos tempo usando computadores. Elea não sabem nem se importam em como um computador funciona. Isso significa que eles não dispoem de um grande número de técnicas de solução de problemas tão familiar aos programadores. Eles não reconhecem os padrões e dicas que os programadores usam para trabalhar com, através e ao redor de uma interface.
+
+A melhor forma de descobrir como os usuários pensam é observar um. Peça a um usuário para completar uma tarefa usando um software similar àquele que você está desenvolvendo. Certifique-se que a tarefa é real: "Adicione uma coluna de números" é OK; "calcule seus gastos no último mês" é ainda melhor. Evite tarefas que são muito específicas, tais como "Você consegue selecionar essas células na planilha e inserir uma fórmula de "SOMA" abaixo?" - existe uma grande pista nessa questão. Leve o usúario à comentar à medida que ele / ela progride na execução da tarefa. Mas não interrompa. Não tente ajudar. Faça perguntas a si mesmo: "Porque ele está fazendo isso?" e "Porque ela não está fazendo aquilo?"
+
+A primeira coisa que você irá notar é que os usuários fazem um conjunto de tarefas centrais de forma muito similar. Eles tentam completar as tarefas na mesma ordem - e eles cometem os mesmos erros nos mesmos pontos. Você deve projetar seu sistema ao redor daquele conjunto de tarefas padrão. Isso é bem distinto das reuniões de "design thinking", onde as pessoas tendem a perguntar "O que acontece se o usuário quiser...?" Isso conduz à funcionalidades muito elaboradas e confusão sobre aquilo que o usuário quer de fato. Observar os usuários elimina essa confusão.
+
+
+Você verá usuários ficando paralisados ao executar uma tarefa. Quando você se paralisa, você olha ao redor. Quando usuários ficam paralisados, eles reduzem seu foco. Torna-se difícil para eles encontrar a solução em algum outro lugar na tela. Essa é uma das razões porque textos de ajuda são soluções fracas para um design de interface de usuário deficiente. Se você inserir instruções ou texto de ajuda, posicione-os próximo à area problemática. O foco limitado de atenção do usuário é a razão que faz que dicas de ferramentas são melhores que menus de ajuda.
+
+
+Usuários tendem a se confundir. Eles encontraão uma forma que funciona e não abrirão mão não importe o quão difícil seja. É melhor fornecer uma manteira realmente óbvia que dois ou três atalhos. Você irá descobrir que existe um gap entre o que os usuários dizem que querem e o que eles de fato querem. É preocupante que a forma normal de coletar requisitos de usuários seja perguntar aos usuários. A melhor forma de capturar requisitos é observar os usuários. Gastar uma hora observando seus usuários é mais informativo do que gastar um dia inteiro imaginando o que eles querem.
+
+Por [Giles Colborne](http://programmer.97things.oreilly.com/wiki/index.php/Giles_Colborne)

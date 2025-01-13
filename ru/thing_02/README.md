@@ -13,4 +13,4 @@
 
 Оплачивайте технический долг как можно быстрее. Действовать по-другому было бы неосмотрительно.
 
-Автор оригинала - [Seb Rose](http://programmer.97things.oreilly.com/wiki/index.php/Seb_Rose)
+Автор оригинала - [Seb Rose's GitHub profile](https://github.com/sebrose) / [Seb Rose's LinkedIn Profile](https://www.linkedin.com/in/sebrose)

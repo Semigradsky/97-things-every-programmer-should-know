@@ -12,4 +12,4 @@ If you schedule repayment of the debt in the next iteration, the cost will be mi
 
 Pay off technical debt as soon as possible. It would be imprudent to do otherwise.
 
-By [Seb Rose](http://programmer.97things.oreilly.com/wiki/index.php/Seb_Rose)
+By [Seb Rose's GitHub profile](https://github.com/sebrose) / [Seb Rose's LinkedIn Profile](https://www.linkedin.com/in/sebrose)

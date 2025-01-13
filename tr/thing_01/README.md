@@ -12,4 +12,4 @@ Bir sonraki yinelemede borcun geri ödemesini planlarsanız, maliyet minimum ola
 
 Teknik borcu mümkün olan en kısa sürede ödeyin. Aksini yapmak tedbirsizlik olur.
 
-[Seb Rose](http://programmer.97things.oreilly.com/wiki/index.php/Seb_Rose) Tarafından
+[Seb Rose's GitHub profile](https://github.com/sebrose) / [Seb Rose's LinkedIn Profile](https://www.linkedin.com/in/sebrose) Tarafından
